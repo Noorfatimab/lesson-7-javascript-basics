@@ -12,3 +12,6 @@ This project introduces JavaScript interactivity for the first time.
 - index.html – Structure of the webpage
 - script.js – JavaScript logic
 - README.md – Project explanation
+
+  ##Visit live website at this link:
+  https://noorfatimab.github.io/lesson-7.2-javascript-basics/ 
